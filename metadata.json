@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Amir Habibi - Sports Pathology Specialist",
+  "description": "A professional medical website for Dr. Amir Habibi, specializing in sports-related pathology, injury diagnosis, and tissue analysis. Includes an AI-powered sports health assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
